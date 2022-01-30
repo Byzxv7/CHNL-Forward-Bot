@@ -11,15 +11,15 @@
     "env": {
         "TG_BOT_TOKEN": {
             "description": "Your Bot Token",
-            "value": ""
+            "value": "5034247920:AAFxkf4LPKnurMzkvUH5st8QysvQrZTwaZE"
         },
         "API_HASH": {
             "description": "Your API Hash",
-            "value": ""
+            "value": "6a8cead041f2b7640dbb9644dc41ecb0"
         },
         "CHANNEL_ID": {
             "description": "Your Channel Id",
-            "value": ""
+            "value": "-1001543466659"
         },
         "WEBHOOK": {
             "description": "Set this to ANYTHING",
@@ -27,7 +27,7 @@
         },
         "APP_ID": {
             "description": "Your APP ID",
-            "value": ""
+            "value": "10905445"
         }
     },
     "addons": [],
